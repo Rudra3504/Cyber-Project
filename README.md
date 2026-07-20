@@ -2,8 +2,6 @@
 
 A modular, multi-threaded reconnaissance suite built for CTF competitions and ethical security research.
 
-Web-App:- https://ctf-recon-tool.vercel.app/
-
 ## Features
 
 | Module | Description |
